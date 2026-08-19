@@ -23,7 +23,7 @@ Framework-agnostic animated canvas backgrounds — a canvas element and a config
 
 E-commerce storefront in an Nx monorepo. Angular 21 with SSR (platform-server behind Express), Vitest and Playwright wired in from the start.
 
-#### [trello-styled-board](https://github.com/AndriiBilych/trello-styled-board) · *in development*
+#### [dummy-task-board](https://github.com/AndriiBilych/dummy-task-board) · *in development*
 
 Task board inspired by Trello, built on Angular and NgRx. Store/effects state architecture, drag-and-drop across lists and within them, effects under test.
 
