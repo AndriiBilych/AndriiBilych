@@ -24,4 +24,6 @@ Framework-agnostic animated canvas backgrounds — a canvas element and a config
 
 [LinkedIn](https://www.linkedin.com/in/andrii-bilych) 
 
+[Portfolio]((https://andriibilych.dev)) 
+
 bilychandrii [at] gmail [dot] com
